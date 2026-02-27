@@ -1,12 +1,12 @@
 <div align="center">
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=38&duration=3000&pause=2000&color=8FD19E&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Joe+Bou+Obeid"
-  alt="Joe Bou Obeid"
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=38&duration=3000&pause=2000&color=8FD19E&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Hey+there+!"
+  alt="Hey there!"
 />
 <br>
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=13&duration=3000&pause=2000&color=888888&center=true&vCenter=true&repeat=false&width=520&height=22&lines=CCE+%E2%80%A2+Multimedia+Engineering+%E2%80%A2+Frontend+%2B+AI+%E2%80%A2+Beirut"
-  alt="CCE · Multimedia Engineering · Frontend + AI · Beirut"
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=13&duration=3000&pause=2000&color=888888&center=true&vCenter=true&repeat=false&width=520&height=22&lines=CCE+%E2%80%A2+Multimedia+Engineering+%E2%80%A2+Frontend+%2B+AI"
+  alt="CCE · Multimedia Engineering · Frontend + AI "
 />
 </div>
 
@@ -47,7 +47,7 @@
 <div align="center">
 <img
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGljaXU4cDQ2eXFpcGV0Nm52MGh1bnNwdmptYnBydG10aGU2cmtsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v4f7aVLX1EoAU/giphy.gif"
-  width="180"
+  width="300"
   alt="Pug coding moral support"
 />
 <br>
