@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-▸ CCE student — <strong>Multimedia Engineering</strong> track &nbsp;|&nbsp; Beirut<br>
+▸ CCE student — <strong>Multimedia Engineering</strong> track &nbsp;<br>
 ▸ Frontend-focused · clean UI, real interactions<br>
 ▸ Exploring <strong>AI-driven</strong> interfaces & automation<br>
 ▸ Style → minimal, purposeful, ships fast
